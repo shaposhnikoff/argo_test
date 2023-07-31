@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: argocd-notifications-cm-delete-me
+data:
+  service.opsgenie: |
+    apiUrl: api.eu.opsgenie.com
+    apiKeys:
+      Ddfgdfgdfgdfgdfg: 234234243242342423423424
