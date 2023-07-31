@@ -4,6 +4,6 @@ metadata:
   name: argocd-notifications-cm-delete-me
 data:
   service.opsgenie: |
-    apiUrl: api.eu.opsgenie.com
+    apiUrl: api.eu.opsgenie.corrm
     apiKeys:
       sdfgdfgdfgdfg: 2342ewewweqqrwereeeqee
